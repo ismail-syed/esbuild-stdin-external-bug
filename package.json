@@ -1,0 +1,11 @@
+{
+  "name": "esbuild-stdin-external-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ismail-syed/esbuild-stdin-external-bug.git",
+  "author": "Ismail Syed <isyed867@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "esbuild": "^0.8.33"
+  }
+}
