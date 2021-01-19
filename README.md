@@ -1,0 +1,1 @@
+# esbuild-stdin-external-bug
